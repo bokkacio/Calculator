@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator 1234</string>
+    <string name="but_1">1</string>
+    <string name="but_2">2</string>
+    <string name="but_3">3</string>
+    <string name="but_4">4</string>
+    <string name="but_5">5</string>
+    <string name="but_6">6</string>
+    <string name="but_7">7</string>
+    <string name="but_8">8</string>
+    <string name="but_9">9</string>
+    <string name="but_0">0</string>
+    <string name="but_plus">+</string>
+    <string name="but_minus">-</string>
+    <string name="but_multiplication">*</string>
+    <string name="but_division">\</string>
+    <string name="but_equal">=</string>
+    <string name="but_cancel">CANCEL</string>
+
+    <drawable name="white">#ffffff</drawable>
+    <drawable name="blue">#2554C7</drawable>
+    <drawable name="green">#347C2C</drawable>
+    <drawable name="orange">#ff9900</drawable>
+    <drawable name="pink">#FF00FF</drawable>
+    <drawable name="violet">#a020f0</drawable>
+    <drawable name="gray">#778899</drawable>
+    <drawable name="red">#C11B17</drawable>
+</resources>
