@@ -7,27 +7,27 @@
     <LinearLayout
             android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="0dip"
+            android:layout_height="0dp"
             android:layout_weight="2">
         <TextView
-                android:layout_width="match_parent"
-                android:text="FIRST"
+                android:layout_width="wrap_content"
+                android:text=""
                 android:id="@+id/txtFirst"
-                android:layout_gravity="left|center_vertical"
+                android:layout_gravity="right"
                 android:layout_height="wrap_content"
                 android:textColor="@drawable/blue"/>
         <TextView
-                android:layout_width="match_parent"
-                android:text="SECOND"
+                android:layout_width="wrap_content"
+                android:text=""
                 android:id="@+id/txtSecond"
-                android:layout_gravity="left|center_vertical"
+                android:layout_gravity="right"
                 android:layout_height="wrap_content"
                 android:textColor="@drawable/violet"/>
         <TextView
-                android:layout_width="match_parent"
-                android:text="RESULT"
+                android:layout_width="wrap_content"
+                android:text=""
                 android:id="@+id/txtEqual"
-                android:layout_gravity="left|center_vertical"
+                android:layout_gravity="right"
                 android:layout_height="wrap_content"
                 android:textColor="@drawable/red"/>
     </LinearLayout>
