@@ -271,17 +271,26 @@ public class MyActivity extends Activity implements View.OnClickListener {
             break;
             case 2:
             {
-
+                first = Long.parseLong(firstStr);
+                second = Long.parseLong(secondStr);
+                result = first - second;
+                thirdText.setText(result + "");
             }
             break;
             case 3:
             {
-
+                first = Long.parseLong(firstStr);
+                second = Long.parseLong(secondStr);
+                result = first / second;
+                thirdText.setText(result + "");
             }
             break;
             case 4:
             {
-
+                first = Long.parseLong(firstStr);
+                second = Long.parseLong(secondStr);
+                result = first * second;
+                thirdText.setText(result + "");
             }
             break;
         }

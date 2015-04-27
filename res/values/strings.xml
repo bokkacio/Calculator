@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Calculator 1234</string>
+    <string name="app_name">Calculator</string>
     <string name="but_1">1</string>
     <string name="but_2">2</string>
     <string name="but_3">3</string>
@@ -14,7 +14,7 @@
     <string name="but_plus">+</string>
     <string name="but_minus">-</string>
     <string name="but_multiplication">*</string>
-    <string name="but_division">\</string>
+    <string name="but_division">\\</string>
     <string name="but_equal">=</string>
     <string name="but_cancel">CANCEL</string>
 
